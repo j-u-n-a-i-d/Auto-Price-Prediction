@@ -6,6 +6,7 @@ Number of Attributes: 26 total -- 15 continuous -- 1 integer -- 10 nominal
 Attribute Information:
 Attribute: 
 Attribute Range:
+
 symboling: -3, -2, -1, 0, 1, 2, 3.
 
 normalized-losses: continuous from 65 to 256.
