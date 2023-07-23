@@ -1,60 +1,61 @@
 # Auto-Price-Prediction
+
 Number of Instances: 205
 
 Number of Attributes: 26 total -- 15 continuous -- 1 integer -- 10 nominal
 
 Attribute Information:
-Attribute: 
-Attribute Range:
 
-symboling: -3, -2, -1, 0, 1, 2, 3.
+Attribute: Attribute Range
 
-normalized-losses: continuous from 65 to 256.
+1)symboling: -3, -2, -1, 0, 1, 2, 3.
 
-make: alfa-romero, audi, bmw, chevrolet, dodge, honda, isuzu, jaguar, mazda, mercedes-benz, mercury, mitsubishi, nissan, peugot, plymouth, porsche, renault, saab, subaru, toyota, volkswagen, volvo
+2)normalized-losses: continuous from 65 to 256.
 
-fuel-type: diesel, gas.
+3)make: alfa-romero, audi, bmw, chevrolet, dodge, honda, isuzu, jaguar, mazda, mercedes-benz, mercury, mitsubishi, nissan, peugot, plymouth, porsche, renault, saab, subaru, toyota, volkswagen, volvo
 
-aspiration: std, turbo.
+4)fuel-type: diesel, gas.
 
-num-of-doors: four, two.
+5)aspiration: std, turbo.
 
-body-style: hardtop, wagon, sedan, hatchback, convertible.
+6)num-of-doors: four, two.
 
-drive-wheels: 4wd, fwd, rwd.
+7)body-style: hardtop, wagon, sedan, hatchback, convertible.
 
-engine-location: front, rear.
+8)drive-wheels: 4wd, fwd, rwd.
 
-wheel-base: continuous from 86.6 120.9.
+9)engine-location: front, rear.
 
-length: continuous from 141.1 to 208.1.
+10)wheel-base: continuous from 86.6 120.9.
 
-width: continuous from 60.3 to 72.3.
+11)length: continuous from 141.1 to 208.1.
 
-height: continuous from 47.8 to 59.8.
+12)width: continuous from 60.3 to 72.3.
 
-curb-weight: continuous from 1488 to 4066.
+13)height: continuous from 47.8 to 59.8.
 
-engine-type: dohc, dohcv, l, ohc, ohcf, ohcv, rotor.
+14)curb-weight: continuous from 1488 to 4066.
 
-num-of-cylinders: eight, five, four, six, three, twelve, two.
+15)engine-type: dohc, dohcv, l, ohc, ohcf, ohcv, rotor.
 
-engine-size: continuous from 61 to 326.
+16)num-of-cylinders: eight, five, four, six, three, twelve, two.
 
-fuel-system: 1bbl, 2bbl, 4bbl, idi, mfi, mpfi, spdi, spfi.
+17)engine-size: continuous from 61 to 326.
 
-bore: continuous from 2.54 to 3.94.
+18)fuel-system: 1bbl, 2bbl, 4bbl, idi, mfi, mpfi, spdi, spfi.
 
-stroke: continuous from 2.07 to 4.17.
+19)bore: continuous from 2.54 to 3.94.
 
-compression-ratio: continuous from 7 to 23.
+20)stroke: continuous from 2.07 to 4.17.
 
-horsepower: continuous from 48 to 288.
+21)compression-ratio: continuous from 7 to 23.
 
-peak-rpm: continuous from 4150 to 6600.
+22)horsepower: continuous from 48 to 288.
 
-city-mpg: continuous from 13 to 49.
+23)peak-rpm: continuous from 4150 to 6600.
 
-highway-mpg: continuous from 16 to 54.
+24)city-mpg: continuous from 13 to 49.
 
-price: continuous from 5118 to 45400.
+25)highway-mpg: continuous from 16 to 54.
+
+26)price: continuous from 5118 to 45400.
